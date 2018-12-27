@@ -1,0 +1,5 @@
+nose
+mock
+PyHamcrest
+coverage
+flake8

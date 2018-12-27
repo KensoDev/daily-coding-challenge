@@ -18,4 +18,3 @@ Directory for every date I did a problem.
 Most problems I will likely solve with Python/JS/Golang.
 
 I will go through the problems with testing in most cases.
-
